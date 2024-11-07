@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.6-8.0.6-0~ubuntu22.04.1"
     },
-    "CreationDate": "2024-11-04T12:04:03+07:00"
+    "CreationDate": "2024-11-07T10:55:43+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,33 +34,13 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "projectGATE-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "projectGATE-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "projectGATE-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "projectGATE-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "projectGATE-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "projectGATE-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
